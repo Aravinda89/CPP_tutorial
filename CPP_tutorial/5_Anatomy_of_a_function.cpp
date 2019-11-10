@@ -1,4 +1,6 @@
 //TODO: include the iostream part of the standard library
+/*
+ 
 #include <iostream>
 
 //TODO: declare your function called distance
@@ -21,3 +23,5 @@ float distance(float velocity, float acceleration, float time){
     float distance = (velocity * time) + (0.5 * acceleration * time * time);
     return distance;
 }
+ 
+*/
