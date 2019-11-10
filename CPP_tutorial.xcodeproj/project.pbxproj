@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		44AB8B63237841050078EA0A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44AB8B62237841050078EA0A /* main.cpp */; };
+		4421A0C02378456C002ED863 /* 1_Statically_Typed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0BF2378456C002ED863 /* 1_Statically_Typed.cpp */; };
+		4421A0C2237847A6002ED863 /* 2_Data_Type.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0C1237847A6002ED863 /* 2_Data_Type.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4421A0BF2378456C002ED863 /* 1_Statically_Typed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1_Statically_Typed.cpp; sourceTree = "<group>"; };
+		4421A0C1237847A6002ED863 /* 2_Data_Type.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_Data_Type.cpp; sourceTree = "<group>"; };
 		44AB8B5F237841050078EA0A /* CPP_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
-		44AB8B62237841050078EA0A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		44AB8B61237841050078EA0A /* CPP_tutorial */ = {
 			isa = PBXGroup;
 			children = (
-				44AB8B62237841050078EA0A /* main.cpp */,
+				4421A0BF2378456C002ED863 /* 1_Statically_Typed.cpp */,
+				4421A0C1237847A6002ED863 /* 2_Data_Type.cpp */,
 			);
 			path = CPP_tutorial;
 			sourceTree = "<group>";
@@ -119,7 +122,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				44AB8B63237841050078EA0A /* main.cpp in Sources */,
+				4421A0C2237847A6002ED863 /* 2_Data_Type.cpp in Sources */,
+				4421A0C02378456C002ED863 /* 1_Statically_Typed.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +252,7 @@
 				44AB8B68237841050078EA0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

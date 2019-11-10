@@ -15,6 +15,9 @@
  */
 
 // define main function
+
+/*
+
 int main() {
     
     int integer_one;
@@ -33,3 +36,4 @@ int main() {
     
     return 0;
 }
+*/
