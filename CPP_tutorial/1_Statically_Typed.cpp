@@ -16,22 +16,22 @@
 
 // define main function
 
-/*
 
+/*
 int main() {
     
     int integer_one;
     integer_one = 5;
     
-    // TODO: Define a variable called integer_two and assign a value of 9.
+     TODO: Define a variable called integer_two and assign a value of 9.
     int integer_two = 9;
     
-    // TODO: Calculate the sum of integer_one and integer_two
-    // and assign the result to integer_sum
+     TODO: Calculate the sum of integer_one and integer_two
+     and assign the result to integer_sum
     int integer_sum;
     integer_sum = integer_one + integer_two;
     
-    // outputs the results to standard out
+     outputs the results to standard out
     std::cout << "Sum:" << integer_sum << std::endl;
     
     return 0;
