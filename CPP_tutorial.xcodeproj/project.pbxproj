@@ -52,21 +52,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4421A0D1237B00D6002ED863 /* 1_Getting_Started */ = {
-			isa = PBXGroup;
-			children = (
-				4421A0BF2378456C002ED863 /* 1_Statically_Typed.cpp */,
-				4421A0C1237847A6002ED863 /* 2_Data_Type.cpp */,
-				4421A0C323784A36002ED863 /* 3_Float_vs_Double.cpp */,
-				4421A0C523784CDC002ED863 /* 4_Common_Errors.cpp */,
-				4421A0C7237850E8002ED863 /* 5_Anatomy_of_a_function.cpp */,
-				4421A0CB237AE645002ED863 /* 6_if_boolean.cpp */,
-				4421A0CD237AEAEE002ED863 /* 7_for_while.cpp */,
-				4421A0CF237AF9EC002ED863 /* 8_switch.cpp */,
-			);
-			name = 1_Getting_Started;
-			sourceTree = "<group>";
-		};
 		44AB8B56237841050078EA0A = {
 			isa = PBXGroup;
 			children = (
@@ -86,7 +71,14 @@
 		44AB8B61237841050078EA0A /* CPP_tutorial */ = {
 			isa = PBXGroup;
 			children = (
-				4421A0D1237B00D6002ED863 /* 1_Getting_Started */,
+				4421A0BF2378456C002ED863 /* 1_Statically_Typed.cpp */,
+				4421A0C1237847A6002ED863 /* 2_Data_Type.cpp */,
+				4421A0C323784A36002ED863 /* 3_Float_vs_Double.cpp */,
+				4421A0C523784CDC002ED863 /* 4_Common_Errors.cpp */,
+				4421A0C7237850E8002ED863 /* 5_Anatomy_of_a_function.cpp */,
+				4421A0CB237AE645002ED863 /* 6_if_boolean.cpp */,
+				4421A0CD237AEAEE002ED863 /* 7_for_while.cpp */,
+				4421A0CF237AF9EC002ED863 /* 8_switch.cpp */,
 			);
 			path = CPP_tutorial;
 			sourceTree = "<group>";
