@@ -14,6 +14,7 @@
 		4421A0C9237850E8002ED863 /* 5_Anatomy_of_a_function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0C7237850E8002ED863 /* 5_Anatomy_of_a_function.cpp */; };
 		4421A0CC237AE645002ED863 /* 6_if_boolean.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CB237AE645002ED863 /* 6_if_boolean.cpp */; };
 		4421A0CE237AEAEE002ED863 /* 7_for_while.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CD237AEAEE002ED863 /* 7_for_while.cpp */; };
+		4421A0D0237AF9EC002ED863 /* 8_switch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CF237AF9EC002ED863 /* 8_switch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +37,7 @@
 		4421A0C7237850E8002ED863 /* 5_Anatomy_of_a_function.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 5_Anatomy_of_a_function.cpp; sourceTree = "<group>"; };
 		4421A0CB237AE645002ED863 /* 6_if_boolean.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 6_if_boolean.cpp; sourceTree = "<group>"; };
 		4421A0CD237AEAEE002ED863 /* 7_for_while.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 7_for_while.cpp; sourceTree = "<group>"; };
+		4421A0CF237AF9EC002ED863 /* 8_switch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 8_switch.cpp; sourceTree = "<group>"; };
 		44AB8B5F237841050078EA0A /* CPP_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				4421A0C7237850E8002ED863 /* 5_Anatomy_of_a_function.cpp */,
 				4421A0CB237AE645002ED863 /* 6_if_boolean.cpp */,
 				4421A0CD237AEAEE002ED863 /* 7_for_while.cpp */,
+				4421A0CF237AF9EC002ED863 /* 8_switch.cpp */,
 			);
 			path = CPP_tutorial;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				4421A0C2237847A6002ED863 /* 2_Data_Type.cpp in Sources */,
 				4421A0CE237AEAEE002ED863 /* 7_for_while.cpp in Sources */,
 				4421A0CC237AE645002ED863 /* 6_if_boolean.cpp in Sources */,
+				4421A0D0237AF9EC002ED863 /* 8_switch.cpp in Sources */,
 				4421A0C02378456C002ED863 /* 1_Statically_Typed.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
