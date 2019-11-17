@@ -20,6 +20,7 @@
 		44A71369237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */; };
 		44A7136B237C569300DCB66B /* 2_4_for_loop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136A237C569300DCB66B /* 2_4_for_loop.cpp */; };
 		44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136C237DA65200DCB66B /* 2_5_1d_vector_playground.cpp */; };
+		44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,7 @@
 		44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_3_initilalizing_vectors.cpp; sourceTree = "<group>"; };
 		44A7136A237C569300DCB66B /* 2_4_for_loop.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_4_for_loop.cpp; sourceTree = "<group>"; };
 		44A7136C237DA65200DCB66B /* 2_5_1d_vector_playground.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_5_1d_vector_playground.cpp; sourceTree = "<group>"; };
+		44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_6_2d_vectors.cpp; sourceTree = "<group>"; };
 		44AB8B5F237841050078EA0A /* CPP_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -85,6 +87,7 @@
 				44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */,
 				44A7136A237C569300DCB66B /* 2_4_for_loop.cpp */,
 				44A7136C237DA65200DCB66B /* 2_5_1d_vector_playground.cpp */,
+				44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */,
 			);
 			name = 2_Vectors;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				44A71364237C460F00DCB66B /* 2_1_vectors.cpp in Sources */,
 				44A7136B237C569300DCB66B /* 2_4_for_loop.cpp in Sources */,
+				44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */,
 				44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */,
 				44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */,
 				4421A0C623784CDC002ED863 /* 1_4_Common_Errors.cpp in Sources */,
