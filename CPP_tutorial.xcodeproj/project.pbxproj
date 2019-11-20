@@ -23,6 +23,7 @@
 		44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */; };
 		44DCB8AF23843AF800A20F00 /* 3_1_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */; };
 		44DCB8B123843B2F00A20F00 /* 3_2_distance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */; };
+		44DCB8B823858F9600A20F00 /* 3_3_cin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		44AB8B5F237841050078EA0A /* CPP_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 		44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_1_main.cpp; sourceTree = "<group>"; };
 		44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_2_distance.cpp; sourceTree = "<group>"; };
+		44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_3_cin.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 			children = (
 				44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */,
 				44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */,
+				44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */,
 			);
 			name = 3_Structuring;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				44A71364237C460F00DCB66B /* 2_1_vectors.cpp in Sources */,
 				44A7136B237C569300DCB66B /* 2_4_for_loop.cpp in Sources */,
 				44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */,
+				44DCB8B823858F9600A20F00 /* 3_3_cin.cpp in Sources */,
 				44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */,
 				44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */,
 				4421A0C623784CDC002ED863 /* 1_4_Common_Errors.cpp in Sources */,
