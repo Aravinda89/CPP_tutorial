@@ -15,6 +15,7 @@
 		4421A0CC237AE645002ED863 /* 1_6_if_boolean.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CB237AE645002ED863 /* 1_6_if_boolean.cpp */; };
 		4421A0CE237AEAEE002ED863 /* 1_7_for_while.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CD237AEAEE002ED863 /* 1_7_for_while.cpp */; };
 		4421A0D0237AF9EC002ED863 /* 1_8_switch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CF237AF9EC002ED863 /* 1_8_switch.cpp */; };
+		44673D0A238A880600D2DCE6 /* 3_4_Reading_txt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D09238A880600D2DCE6 /* 3_4_Reading_txt.cpp */; };
 		44A71364237C460F00DCB66B /* 2_1_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71363237C460F00DCB66B /* 2_1_vectors.cpp */; };
 		44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */; };
 		44A71369237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */; };
@@ -47,6 +48,8 @@
 		4421A0CB237AE645002ED863 /* 1_6_if_boolean.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1_6_if_boolean.cpp; sourceTree = "<group>"; };
 		4421A0CD237AEAEE002ED863 /* 1_7_for_while.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1_7_for_while.cpp; sourceTree = "<group>"; };
 		4421A0CF237AF9EC002ED863 /* 1_8_switch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1_8_switch.cpp; sourceTree = "<group>"; };
+		44673D09238A880600D2DCE6 /* 3_4_Reading_txt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 0; path = 3_4_Reading_txt.cpp; sourceTree = "<group>"; };
+		44673D0B238A884500D2DCE6 /* matrix.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = matrix.txt; sourceTree = "<group>"; };
 		44A71363237C460F00DCB66B /* 2_1_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_1_vectors.cpp; sourceTree = "<group>"; };
 		44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_2_namespace.cpp; sourceTree = "<group>"; };
 		44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_3_initilalizing_vectors.cpp; sourceTree = "<group>"; };
@@ -127,9 +130,11 @@
 		44DCB8A92384384D00A20F00 /* 3_Structuring */ = {
 			isa = PBXGroup;
 			children = (
+				44673D0B238A884500D2DCE6 /* matrix.txt */,
 				44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */,
 				44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */,
 				44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */,
+				44673D09238A880600D2DCE6 /* 3_4_Reading_txt.cpp */,
 			);
 			name = 3_Structuring;
 			sourceTree = "<group>";
@@ -205,6 +210,7 @@
 				44DCB8AF23843AF800A20F00 /* 3_1_main.cpp in Sources */,
 				4421A0CC237AE645002ED863 /* 1_6_if_boolean.cpp in Sources */,
 				4421A0D0237AF9EC002ED863 /* 1_8_switch.cpp in Sources */,
+				44673D0A238A880600D2DCE6 /* 3_4_Reading_txt.cpp in Sources */,
 				4421A0C02378456C002ED863 /* 1_1_Statically_Typed.cpp in Sources */,
 				44A71369237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp in Sources */,
 				44DCB8B123843B2F00A20F00 /* 3_2_distance.cpp in Sources */,
