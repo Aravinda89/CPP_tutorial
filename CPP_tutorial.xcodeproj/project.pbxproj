@@ -19,6 +19,7 @@
 		44673D0D238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D0C238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp */; };
 		44673D10238C126B00D2DCE6 /* 4_1_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */; };
 		44673D12238C129100D2DCE6 /* gaussian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D11238C129100D2DCE6 /* gaussian.cpp */; };
+		44673D14238C1A7100D2DCE6 /* 4_2_practice_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D13238C1A7100D2DCE6 /* 4_2_practice_main.cpp */; };
 		44A71364237C460F00DCB66B /* 2_1_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71363237C460F00DCB66B /* 2_1_vectors.cpp */; };
 		44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */; };
 		44A71369237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */; };
@@ -56,6 +57,7 @@
 		44673D0C238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_5_matrix_mul.cpp; sourceTree = "<group>"; };
 		44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 4_1_main.cpp; sourceTree = "<group>"; };
 		44673D11238C129100D2DCE6 /* gaussian.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gaussian.cpp; sourceTree = "<group>"; };
+		44673D13238C1A7100D2DCE6 /* 4_2_practice_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 4_2_practice_main.cpp; sourceTree = "<group>"; };
 		44A71363237C460F00DCB66B /* 2_1_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_1_vectors.cpp; sourceTree = "<group>"; };
 		44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_2_namespace.cpp; sourceTree = "<group>"; };
 		44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_3_initilalizing_vectors.cpp; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 			children = (
 				44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */,
 				44673D11238C129100D2DCE6 /* gaussian.cpp */,
+				44673D13238C1A7100D2DCE6 /* 4_2_practice_main.cpp */,
 			);
 			name = 4_OPP;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */,
 				44DCB8B823858F9600A20F00 /* 3_3_cin.cpp in Sources */,
 				44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */,
+				44673D14238C1A7100D2DCE6 /* 4_2_practice_main.cpp in Sources */,
 				44673D12238C129100D2DCE6 /* gaussian.cpp in Sources */,
 				44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */,
 				4421A0C623784CDC002ED863 /* 1_4_Common_Errors.cpp in Sources */,
