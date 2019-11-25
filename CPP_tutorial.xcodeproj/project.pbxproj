@@ -17,6 +17,8 @@
 		4421A0D0237AF9EC002ED863 /* 1_8_switch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4421A0CF237AF9EC002ED863 /* 1_8_switch.cpp */; };
 		44673D0A238A880600D2DCE6 /* 3_4_Reading_txt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D09238A880600D2DCE6 /* 3_4_Reading_txt.cpp */; };
 		44673D0D238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D0C238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp */; };
+		44673D10238C126B00D2DCE6 /* 4_1_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */; };
+		44673D12238C129100D2DCE6 /* gaussian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44673D11238C129100D2DCE6 /* gaussian.cpp */; };
 		44A71364237C460F00DCB66B /* 2_1_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71363237C460F00DCB66B /* 2_1_vectors.cpp */; };
 		44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */; };
 		44A71369237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */; };
@@ -52,6 +54,8 @@
 		44673D09238A880600D2DCE6 /* 3_4_Reading_txt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; lineEnding = 0; path = 3_4_Reading_txt.cpp; sourceTree = "<group>"; };
 		44673D0B238A884500D2DCE6 /* matrix.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = matrix.txt; sourceTree = "<group>"; };
 		44673D0C238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_5_matrix_mul.cpp; sourceTree = "<group>"; };
+		44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 4_1_main.cpp; sourceTree = "<group>"; };
+		44673D11238C129100D2DCE6 /* gaussian.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gaussian.cpp; sourceTree = "<group>"; };
 		44A71363237C460F00DCB66B /* 2_1_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_1_vectors.cpp; sourceTree = "<group>"; };
 		44A71365237C4B9E00DCB66B /* 2_2_namespace.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_2_namespace.cpp; sourceTree = "<group>"; };
 		44A71368237C4DA300DCB66B /* 2_3_initilalizing_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_3_initilalizing_vectors.cpp; sourceTree = "<group>"; };
@@ -75,6 +79,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		44673D0E238C124900D2DCE6 /* 4_OPP */ = {
+			isa = PBXGroup;
+			children = (
+				44673D0F238C126B00D2DCE6 /* 4_1_main.cpp */,
+				44673D11238C129100D2DCE6 /* gaussian.cpp */,
+			);
+			name = 4_OPP;
+			sourceTree = "<group>";
+		};
 		44A71361237C459300DCB66B /* 1_Getting_Started */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +135,7 @@
 		44AB8B61237841050078EA0A /* CPP_tutorial */ = {
 			isa = PBXGroup;
 			children = (
+				44673D0E238C124900D2DCE6 /* 4_OPP */,
 				44DCB8A92384384D00A20F00 /* 3_Structuring */,
 				44A71361237C459300DCB66B /* 1_Getting_Started */,
 				44A71362237C45D100DCB66B /* 2_Vectors */,
@@ -204,6 +218,7 @@
 				44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */,
 				44DCB8B823858F9600A20F00 /* 3_3_cin.cpp in Sources */,
 				44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */,
+				44673D12238C129100D2DCE6 /* gaussian.cpp in Sources */,
 				44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */,
 				4421A0C623784CDC002ED863 /* 1_4_Common_Errors.cpp in Sources */,
 				4421A0C9237850E8002ED863 /* 1_5_Anatomy_of_a_function.cpp in Sources */,
@@ -212,6 +227,7 @@
 				4421A0CE237AEAEE002ED863 /* 1_7_for_while.cpp in Sources */,
 				44DCB8AF23843AF800A20F00 /* 3_1_main.cpp in Sources */,
 				4421A0CC237AE645002ED863 /* 1_6_if_boolean.cpp in Sources */,
+				44673D10238C126B00D2DCE6 /* 4_1_main.cpp in Sources */,
 				4421A0D0237AF9EC002ED863 /* 1_8_switch.cpp in Sources */,
 				44673D0A238A880600D2DCE6 /* 3_4_Reading_txt.cpp in Sources */,
 				44673D0D238A8CEF00D2DCE6 /* 3_5_matrix_mul.cpp in Sources */,
