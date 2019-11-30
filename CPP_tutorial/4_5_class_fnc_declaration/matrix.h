@@ -2,7 +2,6 @@
 
 class Matrix 
 {
-
         private:
 
             std::vector< std::vector<float> > grid;
@@ -10,7 +9,6 @@ class Matrix
             std::vector<float>::size_type cols;
             
         public:
-        
         /* 
         ** TODO: Declare  constructor functions
         ** For the matrix class, you will need two constructor functions.
@@ -50,4 +48,3 @@ class Matrix
         std::vector< std::vector<float> >matrix_addition(Matrix);
         void matrix_print();
 };
-        
