@@ -17,10 +17,10 @@ int main () {
     
     // TODO: Print out the number of rows in matrixa. You will need
     // to use the getRows() function and std::cout
-    std::cout << matrixa.getRows() << endl;
+    std::cout << matrixa.getRows() << std::endl;
     
     // TODO: Print out the number of columns in matrixa
-    std::cout << matrixa.getCols() << endl;
+    std::cout << matrixa.getCols() << std::endl;
     
     // TODO: Take the transpose of matrixa and store the results in
     // a variable called transposea
