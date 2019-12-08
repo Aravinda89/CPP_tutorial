@@ -28,6 +28,7 @@
 		44A7136B237C569300DCB66B /* 2_4_for_loop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136A237C569300DCB66B /* 2_4_for_loop.cpp */; };
 		44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136C237DA65200DCB66B /* 2_5_1d_vector_playground.cpp */; };
 		44A7136F2380FAAC00DCB66B /* 2_6_2d_vectors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */; };
+		44C26984239D3CA800172EA6 /* 6_1_dynamic_memory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44C26983239D3CA800172EA6 /* 6_1_dynamic_memory.cpp */; };
 		44DCB8AF23843AF800A20F00 /* 3_1_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */; };
 		44DCB8B123843B2F00A20F00 /* 3_2_distance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */; };
 		44DCB8B823858F9600A20F00 /* 3_3_cin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */; };
@@ -70,6 +71,7 @@
 		44A7136C237DA65200DCB66B /* 2_5_1d_vector_playground.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_5_1d_vector_playground.cpp; sourceTree = "<group>"; };
 		44A7136E2380FAAC00DCB66B /* 2_6_2d_vectors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_6_2d_vectors.cpp; sourceTree = "<group>"; };
 		44AB8B5F237841050078EA0A /* CPP_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
+		44C26983239D3CA800172EA6 /* 6_1_dynamic_memory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 6_1_dynamic_memory.cpp; sourceTree = "<group>"; };
 		44DCB8AE23843AF800A20F00 /* 3_1_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_1_main.cpp; sourceTree = "<group>"; };
 		44DCB8B023843B2F00A20F00 /* 3_2_distance.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_2_distance.cpp; sourceTree = "<group>"; };
 		44DCB8B723858F9600A20F00 /* 3_3_cin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 3_3_cin.cpp; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				44DCB8A92384384D00A20F00 /* 3_Structuring */,
 				44A71361237C459300DCB66B /* 1_Getting_Started */,
 				44A71362237C45D100DCB66B /* 2_Vectors */,
+				44C26983239D3CA800172EA6 /* 6_1_dynamic_memory.cpp */,
 			);
 			path = CPP_tutorial;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				44A7136D237DA65200DCB66B /* 2_5_1d_vector_playground.cpp in Sources */,
 				44673D14238C1A7100D2DCE6 /* 4_2_practice_main.cpp in Sources */,
 				44673D12238C129100D2DCE6 /* gaussian.cpp in Sources */,
+				44C26984239D3CA800172EA6 /* 6_1_dynamic_memory.cpp in Sources */,
 				44A71366237C4B9E00DCB66B /* 2_2_namespace.cpp in Sources */,
 				4421A0C623784CDC002ED863 /* 1_4_Common_Errors.cpp in Sources */,
 				44673D1A238EB8EA00D2DCE6 /* 4_3_gaussian.cpp in Sources */,
