@@ -12,7 +12,7 @@ using namespace std;
 int main(int argc, const char * argv[]) {
 
     vector< vector<int> > matrix;
-    vector <vector<int> > matrix_improved;
+    vector< vector<int> > matrix_improved;
     vector<int> new_row;
 
     int num_rows = 10;
