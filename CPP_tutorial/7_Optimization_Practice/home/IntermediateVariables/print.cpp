@@ -13,6 +13,5 @@ void print(vector< vector<int> > matrix) {
         }
         cout << "\n";
     }
-    cout << "\n";
-    
+    cout << "\n";   
 }
