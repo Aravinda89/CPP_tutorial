@@ -5,19 +5,11 @@ vector< vector<int> > scalar_multiply_improved(vector< vector<int> > matrix, int
     
   	// OPTIMIZATION: Instead of creating a new variable
     // called resultmatrix, update the input matrix directly
-    vector< vector<int> > resultmatrix;
-    vector<int> new_row;
     
-    vector<int>::size_type num_rows = matrix.size();
-    vector<int>::size_type num_cols = matrix[0].size();
-    
-    for (int i = 0; i < num_rows; i++) {
-        new_row.clear();
-        for (int j = 0; j < num_cols; j++) {
-            new_row.push_back(matrix[i][j] * scalar);
+    for (int i = 0; i < matrix.size(); i++) {
+        for (int j = 0; j < matrix[0].size(); j++) {
+            matrix[i][j] = matrix[i][j] * scalar;
         }
-        resultmatrix.push_back(new_row);
     }
-    
-    return resultmatrix;
+    return matrix;
 }
