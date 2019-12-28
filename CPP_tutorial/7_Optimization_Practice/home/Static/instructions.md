@@ -12,7 +12,7 @@ g++ -std=c++11 main.cpp blur_factor.cpp blur_factor_improved.cpp print.cpp
 
 3. Modify the code in blur_factor_improved.cpp to get it to run faster. There are two things you can do: (a) use the "static" keyword for variables whose values do not change. These variables include blurring, center, corner, adjacent, and window. (b) eliminate the nested for loops used to prepare the window variable. (HINT: You can use the C++11 syntax for initializing a 2D vector. 
 vector< vector<int> > my_vector = {{a, b, c}, {d, e, f}};
-  
+
 HINT: Think through the logic of the nested for loops and determine how you could initialize the window variable without those loops.
 
 4. Run the code again to see if the code runs faster. Use these terminal commands (assuming you are already in the Static directory):
